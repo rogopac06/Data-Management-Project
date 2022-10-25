@@ -1,9 +1,10 @@
 # Data-Management-Project
-Project for the Data Management Course - MSc Data Science UNIMIB
+## Project for the Data Management Course - MSc Data Science UNIMIB
 
-The goal of this project is to create a dataset of reddit's financial subreddits posts in order to investigate possible correlations between stock prices movements and retail sentiment on social media.
-The focus of this course project is to build the dataset using different tools ranging from scraping to API.
-It also focuses on the correct database choice based on the type of data.
+### The goal of this project is to create a dataset of reddit's financial subreddits posts in order to investigate possible correlations between stock prices movements and retail sentiment on social media.
+
+The focus of this course project is to build the dataset using different tools ranging from scraping to API, possibly avoiding direct downloading from sources.
+It also focuses on the correct database choice based on the type of data; in our case we opted for MongoDB, a NoSQL db which is extremely versatile. 
 
 This roadmap highligths the projects main steps:
 
