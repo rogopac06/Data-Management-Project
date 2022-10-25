@@ -8,8 +8,6 @@ It also focuses on the correct database choice based on the type of data.
 This roadmap highligths the projects main steps:
 
 1) Stocks data acquistion (via stocks_info and yahoo_fin API)
-  a) tickers list creation
-  b) quality control
-2) Reddit posts acquisition (via praw and pmaw API)
-3) upload on MongoDB 
-4) Data integration
+3) Reddit posts acquisition (via praw and pmaw API)
+4) upload on MongoDB 
+5) Data integration
